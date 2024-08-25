@@ -32,7 +32,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lbthinesh&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="lbthinesh" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lbthinesh&show_icons=true&locale=en&layout=compact&cache_seconds=10" alt="lbthinesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lbthinesh&show_icons=true&locale=en" alt="lbthinesh" /></p>
 
