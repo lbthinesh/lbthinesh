@@ -32,11 +32,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lbthinesh&show_icons=true&locale=en&layout=compact" alt="lbthinesh" /></p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lbthinesh&show_icons=true&locale=en&layout=compact" alt="lbthinesh" style="width: 100%; max-width: 500px;" />
 
-<!-- Add a clear div to align everything properly -->
-<div style="clear: both;"></div>
+    <img src="https://github-readme-stats.vercel.app/api?username=lbthinesh&show_icons=true&locale=en" alt="lbthinesh" style="width: 100%; max-width: 500px;" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lbthinesh&show_icons=true&locale=en" alt="lbthinesh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lbthinesh&" alt="lbthinesh" /></p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lbthinesh&" alt="lbthinesh" style="width: 100%; max-width: 500px;" />
+</div>
