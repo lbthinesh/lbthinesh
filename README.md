@@ -1,5 +1,4 @@
 ![logo](https://github.com/lbthinesh/lbthinesh/blob/main/banner_dev.gif)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lbthinesh&show_icons=true&locale=en&layout=compact&cache_seconds=1800)
 
 <h1 align="center">Hi 👋, I'm Thinesh L B</h1>
 <h3 align="center">A passionate Django Developer</h3>
