@@ -34,6 +34,9 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lbthinesh&show_icons=true&locale=en&layout=compact" alt="lbthinesh" /></p>
 
+<!-- Add a clear div to align everything properly -->
+<div style="clear: both;"></div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lbthinesh&show_icons=true&locale=en" alt="lbthinesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lbthinesh&" alt="lbthinesh" /></p>
