@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbthinesh&label=Profile%20views&color=0e75b6&style=flat" alt="lbthinesh" /> </p>
 
-- 🔭 I’ve worked on **AI Chat System with Authentication** using Django and MySQL.
+- 🔭 I’ve recently worked on **Fake News Detection System using ML and AI features** using Django and MySQL.
 
 - 🌱 I’m currently diving deeper into **Python, Django, MySQL**.
 
